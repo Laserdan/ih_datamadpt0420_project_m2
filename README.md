@@ -51,3 +51,6 @@ There are 2 outputs:
 - Dashboards on [Tableau Public](https://public.tableau.com/profile/victor2480#!/vizhome/Diamonds-ExploratoryDataAnalysis/Analysis) with the visualization of the main information from the analysis done before.
 
 
+## **Bonus: Hypothesis test**
+
+blablabla tengo que ampliar...
